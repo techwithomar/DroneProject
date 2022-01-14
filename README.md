@@ -34,13 +34,6 @@ RMFD dataset (See here)
 🔑 Prerequisites
 All the dependencies and required libraries are included in the file requirements.txt See here
 
-🚀  Installation
-Clone the repo
-$ git clone https://github.com/chandrikadeb7/Face-Mask-Detection.git
-Change your directory to the cloned repo and create a Python virtual environment named 'test'
-$ mkvirtualenv test
-Now, run the following command in your Terminal/Command Prompt to install the libraries required
-$ pip3 install -r requirements.txt
 💡 Working
 Open terminal. Go into the cloned project directory folder and type the following command:
 $ python3 train_mask_detector.py --dataset dataset
